@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **getting my first job**
 
-- 👨‍💻 All of my projects are available at [my github page](my github page)
+- 👨‍💻 All of my projects are available at my github page
 
 - 📫 How to reach me **oleksandrvarynskyi@gmail.com**
 
